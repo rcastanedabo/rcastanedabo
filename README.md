@@ -22,12 +22,13 @@
 ---
 
 ## 💼 **Professional Experience**  
-📍 **SUNAT** – Tax Guidance Counselor _(2019 - 2024)_ 
-📍 **Ernst & Young (EY)** – Tax Audit Assistant _(2016 - 2017)_ 
+📍 **SUNAT** – Tax Guidance Counselor _(2019 - 2024)_  
+📍 **Ernst & Young (EY)** – Tax Audit Assistant _(2016 - 2017)_  
 📍 **SUNAT** – Tax Audit Assistant _(2014 - 2015)_  
 📍 **Lopesa Industrial S.A** – Accounting Assistant _(2013 - 2014)_  
 📍 **Real Plaza S.R.L** – Sales Auditor _(2013)_  
 📍 **ONG PROMYPES** – Credit Advisor _(2010 - 2012)_  
+
 
 ---
 
