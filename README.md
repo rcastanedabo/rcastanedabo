@@ -14,9 +14,6 @@
 📍 **Cibertec Institute** – Enterprise Data Architecture (2023 - 2024)  
 
 ### 📚 **Additional Training**  
-✔️ **Diploma in Taxation** – Continental University (2014)  
-✔️ **Diploma in Tax Audit** – College of Public Accountants of Lima (2015)  
-✔️ **XXXII IFRS Diploma** – College of Public Accountants of Lima (2016)  
 ✔️ **Henry Bootcamp – Data Science** (January 2024 - Present)  
 
 ---
